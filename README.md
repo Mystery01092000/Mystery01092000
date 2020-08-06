@@ -5,9 +5,13 @@
 --!>
 
  🔭 I’m currently working on Machine Learning and Algorithms
+ 
  🌱 I’m currently learning Machine Learning, Web development and Android .
+ 
  👯 I’m looking to collaborate on Live Projects
+ 
  🤔 I’m looking for help with learning new things and projects 
+ 
  💬 Ask me about Machine Learning, Gaming, Business
 
  📫 How to reach me: pranav.tomar_cs18@gla.ac.in  
