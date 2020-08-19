@@ -22,4 +22,4 @@
 ## 📫 How to reach me: pranav.tomar_cs18@gla.ac.in  
 
                     
-## ig : https://www.instagram.com/thisispranavtomar/
+ig : https://www.instagram.com/thisispranavtomar/
