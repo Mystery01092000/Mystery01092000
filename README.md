@@ -11,7 +11,3 @@
 - 💬 Ask me about Machine Learning, Gaming, Business
 - 📫 How to reach me: pranav.tomar_cs18@gla.ac.in                     
 - ig : https://www.instagram.com/thisispranavtomar/
-
-- 🔭 Currently working on Full Stack Development with MERN Stack
-- 🌱 Currently learning Web framework React and React Native
-- 👯 Looking to collaborate on Live Projects 
