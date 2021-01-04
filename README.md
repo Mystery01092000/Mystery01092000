@@ -25,15 +25,15 @@
 **Mystery01092000/Mystery01092000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<!--
 * 🔭 I’m currently working on myself.<br>
 * 🌱 I’m currently learning competitive programming.<br>
 * 🤔 I’m looking for help with my portfolio website.<br>
 * 💬 Ask me about anything for help.<br>
-<!-- * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
+ * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 -->
 
 ![](https://komarev.com/ghpvc/?username=Mystery01092000&color=blue&style=plastic&label=Github+Profile+Views)
-### Blogs posts
 <br>
 
 <code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula"></code>
