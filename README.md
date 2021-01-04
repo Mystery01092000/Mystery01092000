@@ -12,10 +12,10 @@
     <a href="https://www.hackerrank.com/_181500475">
         <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <a href="#">
+    <a href="https://auth.geeksforgeeks.org/user/pranavtom1223/profile">
         <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
     </a>
-    <code><a href="#">
+    <code><a href="https://www.codechef.com/users/arc4n3_0101">
         <img height=33 src="https://github.com/mishravimal99/mishravimal99/blob/master/codechef%20(1).svg"> <span style="color:black"><b>Codechef<b></span>
   </a></code>
 
@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 <br>
 
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=RamanMyreign&show_icons=true&theme=dracula"></code>
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanMyreign&theme=dracula"></code>
+<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula"></code>
+<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&theme=dracula"></code>
 <br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
-[linkedin]: https://www.linkedin.com/in/raman-shukla-b8b9931b5/
-[Facebook]: https://www.facebook.com/raman.shuklasid
+[linkedin]: https://www.linkedin.com/in/pranav-tomar-a31476172/
+[Facebook]: https://www.facebook.com/pranav.tomar.10
