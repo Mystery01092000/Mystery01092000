@@ -32,14 +32,13 @@ Here are some ideas to get you started:
 <!-- * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 -->
 
-![](https://komarev.com/ghpvc/?username=RamanMyreign&color=blue&style=plastic&label=Github+Profile+Views)
+![](https://komarev.com/ghpvc/?username=Mystery01092000&color=blue&style=plastic&label=Github+Profile+Views)
 ### Blogs posts
 <br>
 
 <code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula"></code>
 <code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&theme=dracula"></code>
 <br />
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/pranav-tomar-a31476172/
 [Facebook]: https://www.facebook.com/pranav.tomar.10
