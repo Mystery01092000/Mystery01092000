@@ -1,43 +1,88 @@
-# PRANAV TOMAR <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
-<img height="30" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<div align="center">
 
-<h2> Hi everyone ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Pranav Tomar
 
-<p align="center">
+**Open source contributor · Finance & infrastructure tooling · Python · Go**
 
-  <b><i>Let's connect! Find me on the web.</i></b><br><br>
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-    <a href="https://www.hackerrank.com/_181500475">
-        <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/pranavtom1223/profile">
-        <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
-    </a>
-    <code><a href="https://www.codechef.com/users/arc4n3_0101">
-        <img height=33 src="https://github.com/mishravimal99/mishravimal99/blob/master/codechef%20(1).svg"> <span style="color:black"><b>Codechef<b></span>
-  </a></code>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-tomar-a31476172/)
+[![GitHub followers](https://img.shields.io/github/followers/Mystery01092000?style=flat&logo=github&logoColor=white&label=Follow)](https://github.com/Mystery01092000)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mystery01092000&style=flat&color=0077B5&label=Profile+Views)](https://github.com/Mystery01092000)
 
-<br />
-<hr />
-<!--
-**Mystery01092000/Mystery01092000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-<!--
-* 🔭 I’m currently working on myself.<br>
-* 🌱 I’m currently learning competitive programming.<br>
-* 🤔 I’m looking for help with my portfolio website.<br>
-* 💬 Ask me about anything for help.<br>
- * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
--->
+</div>
 
-![](https://komarev.com/ghpvc/?username=Mystery01092000&color=blue&style=plastic&label=Github+Profile+Views)
-<br>
+---
 
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula"></code>
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&theme=dracula"></code>
-<br />
+## About
 
-[linkedin]: https://www.linkedin.com/in/pranav-tomar-a31476172/
-[Facebook]: https://www.facebook.com/pranav.tomar.10
+I build tools in the finance and infrastructure space, and contribute to open source projects I use and care about. Currently focused on:
+
+- Making algorithmic trading strategy building accessible through a visual drag-and-drop platform
+- Simplifying AWS infrastructure management for small teams
+- Contributing bug fixes and features to Python and Go open source projects
+
+I'm always open to collaboration on open source — especially in **developer tooling**, **AI/ML infrastructure**, and **quantitative finance**.
+
+---
+
+## Open Source Contributions
+
+| Project | Description | PR |
+|---|---|---|
+| [marimo](https://github.com/marimo-team/marimo) | Fixed 3 bugs in `mo.ui.form`: Ctrl+Enter now routes through validation, Shift+Enter no longer bypasses the form, wrapped element `on_change` no longer double-fires on submit | [#8918](https://github.com/marimo-team/marimo/pull/8918) |
+
+> Looking to contribute more — interested in repos with **good first issues** in Python/Go across finance, devtools, and AI/ML.
+
+---
+
+## Personal Projects
+
+### Trading Platform — Algo Strategy Builder
+A visual platform for building, backtesting, and deploying algorithmic trading strategies without writing boilerplate. Drag-and-drop strategy composition backed by a Python execution engine.
+
+**Stack:** Python · Go · React
+
+---
+
+### AWS Simplifier
+A CLI and dashboard tool that reduces the operational complexity of common AWS workflows — provisioning, cost visibility, and resource cleanup — for small engineering teams.
+
+**Stack:** Go · Python · AWS SDK
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Tools & Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm interested in:
+- **OSS collaboration** — bug fixes, new features, or co-maintaining a project
+- **Code review** — happy to review PRs in Python/Go
+- **Pair programming** — finance tooling, developer tools, or infra
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/pranav-tomar-a31476172/) or open an issue/discussion on any repo I'm active in.
