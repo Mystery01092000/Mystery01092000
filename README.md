@@ -76,6 +76,8 @@ A CLI and dashboard tool that reduces the operational complexity of common AWS w
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![Contribution Snake](https://raw.githubusercontent.com/Mystery01092000/Mystery01092000/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
