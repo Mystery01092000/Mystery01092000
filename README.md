@@ -2,25 +2,34 @@
 
 # Pranav Tomar
 
-**Open source contributor · Finance & infrastructure tooling · Python · Go**
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mystery01092000.Mystery01092000)](https://github.com/Mystery01092000)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-tomar-a31476172/)
-[![GitHub followers](https://img.shields.io/github/followers/Mystery01092000?style=flat&logo=github&logoColor=white&label=Follow)](https://github.com/Mystery01092000)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mystery01092000&style=flat&color=0077B5&label=Profile+Views)](https://github.com/Mystery01092000)
+**Open source contributor · Finance & infrastructure tooling · Python · Go**
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I build tools in the finance and infrastructure space, and contribute to open source projects I use and care about. Currently focused on:
+Software engineer building tools in finance and infrastructure. I contribute to open source projects I use and care about, and I'm always looking for interesting problems to solve — especially at the intersection of developer experience and quantitative systems.
 
-- Making algorithmic trading strategy building accessible through a visual drag-and-drop platform
-- Simplifying AWS infrastructure management for small teams
-- Contributing bug fixes and features to Python and Go open source projects
+Currently working on:
+- A **visual algo strategy builder** — drag-and-drop composition backed by a Python execution engine, making systematic trading accessible without boilerplate
+- An **AWS Simplifier** CLI — reducing the operational complexity of common AWS workflows for small engineering teams
+- **Open source contributions** in Python and Go — bug fixes, new features, and code review
 
-I'm always open to collaboration on open source — especially in **developer tooling**, **AI/ML infrastructure**, and **quantitative finance**.
+Open to collaboration on **developer tooling**, **AI/ML infrastructure**, and **quantitative finance**.
+
+---
+
+## Languages & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=py,go,ts,react,aws,docker,postgres,git,github,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -30,7 +39,7 @@ I'm always open to collaboration on open source — especially in **developer to
 |---|---|---|
 | [marimo](https://github.com/marimo-team/marimo) | Fixed 3 bugs in `mo.ui.form`: Ctrl+Enter now routes through validation, Shift+Enter no longer bypasses the form, wrapped element `on_change` no longer double-fires on submit | [#8918](https://github.com/marimo-team/marimo/pull/8918) |
 
-> Looking to contribute more — interested in repos with **good first issues** in Python/Go across finance, devtools, and AI/ML.
+> Always looking for more — interested in repos with **good first issues** in Python/Go across finance, devtools, and AI/ML.
 
 ---
 
@@ -41,8 +50,6 @@ A visual platform for building, backtesting, and deploying algorithmic trading s
 
 **Stack:** Python · Go · React
 
----
-
 ### AWS Simplifier
 A CLI and dashboard tool that reduces the operational complexity of common AWS workflows — provisioning, cost visibility, and resource cleanup — for small engineering teams.
 
@@ -50,24 +57,36 @@ A CLI and dashboard tool that reduces the operational complexity of common AWS w
 
 ---
 
-## Tech Stack
+## GitHub Stats
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="420"/>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://www.linkedin.com/in/pranav-tomar-a31476172/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <br/><br/>
+      <b>Fun Facts</b>
+      <br/><br/>
+      ⚡ I debug production issues faster with coffee ☕<br/>
+      🔭 Currently exploring reactive notebook UIs<br/>
+      🌱 Learning more about HFT system design<br/>
+      💬 Ask me about Python, Go, or AWS cost optimization<br/>
+      📫 Open to OSS collaboration and code review
+    </td>
+  </tr>
+</table>
 
-**Tools & Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
 
