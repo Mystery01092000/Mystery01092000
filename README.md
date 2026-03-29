@@ -71,8 +71,9 @@ A CLI and dashboard tool that reduces the operational complexity of common AWS w
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&layout=compact&theme=github_dark&hide_border=true" />
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
