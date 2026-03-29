@@ -71,9 +71,10 @@ A CLI and dashboard tool that reduces the operational complexity of common AWS w
 
 <div align="center">
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery01092000&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery01092000&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery01092000&layout=compact&theme=dracula&hide_border=true)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -87,4 +88,3 @@ I'm interested in:
 - **Pair programming** — finance tooling, developer tools, or infra
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/pranav-tomar-a31476172/) or open an issue/discussion on any repo I'm active in.
-
