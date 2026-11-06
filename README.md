@@ -1,111 +1,126 @@
 <div align="center">
 
-# Pranav Tomar
+# Hi, I'm Pranav Tomar 👋
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mystery01092000.Mystery01092000)](https://github.com/Mystery01092000)
+<a href="https://github.com/Mystery01092000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+engineer+%40+Centricity+WealthTech;Building+AI+agents%2C+RAG+systems+%26+cloud+tooling;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+Azure" alt="Typing intro" />
+</a>
 
-**Open source contributor · Finance & infrastructure tooling · Python · Go**
-
-</div>
-
----
-
-## About Me
-
-Software engineer building tools in finance and infrastructure. I contribute to open source projects I use and care about, and I'm always looking for interesting problems to solve — especially at the intersection of developer experience and quantitative systems.
-
-Currently working on:
-- A **visual algo strategy builder** — drag-and-drop composition backed by a Python execution engine, making systematic trading accessible without boilerplate
-- An **AWS Simplifier** CLI — reducing the operational complexity of common AWS workflows for small engineering teams
-- **Open source contributions** in Python and Go — bug fixes, new features, and code review
-
-Open to collaboration on **developer tooling**, **AI/ML infrastructure**, and **quantitative finance**.
-
----
-
-## Languages & Tools
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=py,go,ts,react,aws,docker,postgres,git,github,linux&theme=dark)](https://skillicons.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mystery01092000.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-tomar-a31476172/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavtom1223@gmail.com)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Mystery01092000.Mystery01092000)
 
 </div>
 
 ---
 
-## Open Source Contributions
+### 🧠 About me
 
-| Project | Description | PR |
-|---|---|---|
-| [marimo](https://github.com/marimo-team/marimo) | Fixed 3 bugs in `mo.ui.form`: Ctrl+Enter now routes through validation, Shift+Enter no longer bypasses the form, wrapped element `on_change` no longer double-fires on submit | [#8918](https://github.com/marimo-team/marimo/pull/8918) |
+I'm a software engineer at **Centricity WealthTech** in India. I build things where **AI, cloud infrastructure and finance** meet:
 
-> Always looking for more — interested in repos with **good first issues** in Python/Go across finance, devtools, and AI/ML.
+- 🤖 **Agent systems.** Multi-agent harnesses that plan, delegate, verify their own work and open PRs, with every token and dollar traced.
+- 📚 **Retrieval & LLM apps.** Hybrid-search RAG with cross-encoder reranking and CI-gated evaluation (RAGAS).
+- ☁️ **Cloud governance & IaC.** Multi-cloud estate observability, visual Terraform designers and cost visibility across AWS and Azure.
+- 📈 **Quant & fintech.** Trading platforms, market screeners and AI for accounting and tax.
 
----
-
-## Personal Projects
-
-### Trading Platform — Algo Strategy Builder
-A visual platform for building, backtesting, and deploying algorithmic trading strategies without writing boilerplate. Drag-and-drop strategy composition backed by a Python execution engine.
-
-**Stack:** Python · Go · React
-
-### AWS Simplifier
-A CLI and dashboard tool that reduces the operational complexity of common AWS workflows — provisioning, cost visibility, and resource cleanup — for small engineering teams.
-
-**Stack:** Go · Python · AWS SDK
+🌱 Currently exploring **agent evaluation, sandboxing and observability**.
+🤝 Open to **OSS collaboration** in Python and Go: devtools, AI infra and quantitative finance.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
+### 🚀 Featured projects
 
 <table>
-  <tr>
-    <td>
-      <img src="github-metrics.svg" alt="GitHub Metrics" width="420"/>
-    </td>
-    <td valign="top" align="center">
-      <a href="https://www.linkedin.com/in/pranav-tomar-a31476172/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <br/><br/>
-      <b>Fun Facts</b>
-      <br/><br/>
-      ⚡ I debug production issues faster with coffee ☕<br/>
-      🔭 Currently exploring reactive notebook UIs<br/>
-      🌱 Learning more about HFT system design<br/>
-      💬 Ask me about Python, Go, or AWS cost optimization<br/>
-      📫 Open to OSS collaboration and code review
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+#### 🧵 [Agent Loom](https://github.com/Mystery01092000/agent-loom)
+A local multi-agent coding harness with a web UI. **Intake → supervisor → workers → independent diagnosis → PR**, all sandboxed with turn and dollar caps and a live trace view of every model turn and tool call.
+
+`Python` `FastAPI` `Anthropic SDK` `React` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+#### 👁️ [Truesight](https://github.com/Mystery01092000/truesight-platform)
+Cloud governance with no blind spots. One pane across AWS and Azure estates, GitHub org insights, Terraform drift, cost and compliance. Includes **Forge**, a drag-and-drop canvas that compiles to Terraform.
+
+`TypeScript` `Next.js` `React Flow` `AWS` `Azure` `Terraform`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 [Ask My Docs](https://github.com/Mystery01092000/read-my-doc)
+Self-hosted document Q&A with **verified inline citations**. BM25 and pgvector hybrid retrieval fused with RRF, cross-encoder reranking, and RAGAS quality gates in CI. [Live demo →](https://read-my-doc-beta.vercel.app)
+
+`Python` `FastAPI` `pgvector` `Ollama` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧾 [Verra](https://github.com/Mystery01092000/verra-ai)
+An end-to-end design and build of an AI engine for accounting, tax, audit and compliance. Guardrailed multi-agent platform, human-in-the-loop approvals, multi-tenant microservices.
+
+`Python` `FastAPI` `Next.js` `Temporal` `Postgres` `Kubernetes`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ☁️ [CloudForge](https://github.com/Mystery01092000/aws-simplified)
+Visual AWS infrastructure management. Design on a VPC canvas, see live cost estimates in USD and INR, and deploy via Terraform with role-scoped, auto-generated least-privilege IAM.
+
+`Python` `FastAPI` `Celery` `React Flow` `Terraform`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [AITrader](https://github.com/Mystery01092000/market-screener)
+AI-powered trading platform for equity, F&O and commodities. Go microservices for auth, orders and accounts, a Python ML service for signals and backtesting, and live Zerodha Kite ticks.
+
+`Go` `Python` `Next.js` `PostgreSQL` `Redis`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Activity
+### 🛠️ Tech stack
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery01092000&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Mystery01092000&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![Contribution Snake](https://raw.githubusercontent.com/Mystery01092000/Mystery01092000/output/github-contribution-grid-snake-dark.svg)
+[![Skills](https://skillicons.dev/icons?i=py,go,ts,react,nextjs,fastapi,postgres,redis,docker,kubernetes,terraform,aws,azure,githubactions,linux&perline=15)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Let's Connect
+### 📊 GitHub stats
 
-I'm interested in:
-- **OSS collaboration** — bug fixes, new features, or co-maintaining a project
-- **Code review** — happy to review PRs in Python/Go
-- **Pair programming** — finance tooling, developer tools, or infra
+<div align="center">
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/pranav-tomar-a31476172/) or open an issue/discussion on any repo I'm active in.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery01092000&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mystery01092000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mystery01092000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mystery01092000/Mystery01092000/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mystery01092000/Mystery01092000/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 Ask me about **agent harnesses, RAG evaluation, Terraform or AWS cost optimisation**.
+If something here is useful to you, a ⭐ on the repo goes a long way.
+
+</div>
