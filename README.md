@@ -29,23 +29,6 @@ I'm a software engineer at **Centricity WealthTech** in India. I build things wh
 
 ---
 
-### 🌍 Open source contributions
-
-Merged upstream:
-
-| Project | PR | What it does |
-|---|---|---|
-| [JupyterLab](https://github.com/jupyterlab/jupyterlab) | [#20449](https://github.com/jupyterlab/jupyterlab/pull/20449) | Settings Editor search finds options provided by form renderers (shipped in 4.7.0) |
-| [OpenAlgo](https://github.com/marketcalls/openalgo) | [#2406](https://github.com/marketcalls/openalgo/pull/2406) | Serve `/api/v1/instruments` from the symbol cache (1.26 s → 0.07 s on 90k rows) |
-| [OpenAlgo](https://github.com/marketcalls/openalgo) | [#2404](https://github.com/marketcalls/openalgo/pull/2404) | Paytm SL / SL-M sent as real stop orders with their trigger price |
-| [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | [#605](https://github.com/CursorTouch/Windows-MCP/pull/605) | Progress notifications for long-running PowerShell commands |
-| [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | [#368](https://github.com/OpenByteInc/QuantDinger/pull/368) | Backtest trade review candles stay on the strategy timeframe |
-| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [#2506](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2506) | Bark push bodies truncated to the APNs byte limit |
-
-In review: 30+ more across OpenAlgo, deepeval, Pydantic Logfire, skfolio, Arize OpenInference, LiteLLM, GoModel, evlog, headroom, gepa, orca and crewAI. [See all my PRs →](https://github.com/pulls?q=is%3Apr+author%3AMystery01092000+-user%3AMystery01092000)
-
----
-
 ### 🚀 Featured projects
 
 <table>
